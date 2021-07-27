@@ -1,4 +1,4 @@
-# hluwa's Profile
+# HuRuWo's Profile
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=HuRuWo&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
@@ -19,16 +19,10 @@
 
 ## 📫 Reach Me
 
-- Twitter: https://twitter.com/_hluwa
-- Email: hluwa888@gmail.com
-- Pediy: https://bbs.pediy.com/user-home-715510.htm
-- 知识星球： https://t.zsxq.com/NZFAuNN (FREE)
-- 安全客：https://www.anquanke.com/member/129264
-- 微信公众号: 虎克老湿基
+- Email: 1458476478@qq.com
 
 
-
-**hluwa/hluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **HuRuWo/HuRuWo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,5 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
