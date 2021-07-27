@@ -29,8 +29,8 @@
 
 ## 📫 联系本人
 
-- Email: 412460963@qq.com
-- QQ: 412460963 (添加请注明来意)
+- Email: 1458476478@qq.com
+- QQ: 1458476478(添加请注明来意)
 - Blog: [https://www.huruwo.top/](https://www.huruwo.top/)
 
  
