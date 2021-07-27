@@ -31,6 +31,7 @@
 
 - Email: 412460963@qq.com
 - QQ: 412460963 (添加请注明来意)
+- Blog: [https://www.huruwo.top/](https://www.huruwo.top/)
 
  
 <!-- **HuRuWo/HuRuWo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
