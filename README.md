@@ -7,15 +7,14 @@
 
 ## 🔭 工作内容
 
-- Application Security Research
-- Reverse Engineering
-- Bug Hunter (FAKE)
+- 安卓逆向漏洞分析
+- 安卓安全防护
+- 安卓测试自动化
 
 ## 🌱 核心技术研究方向
 
-- Program Analysis
-- Android Application Vulnerability
-- Vulnerability Automation Mining
+- 安卓逆向安全防护
+- 安卓测试自动化
 
 ## 📫 联系本人
 
