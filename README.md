@@ -1,11 +1,11 @@
 # HuRuWo的主页信息
 
 
-## 👯 (置顶)寻求工作机会
+<!-- ## 👯 (置顶)寻求工作机会
 
 - 寻求安卓逆向安全方向工作，地点不限。
 - 如果有合适的工作机会请联系本人，当前处于离职状态。
-- 希望加入你的团队。
+- 希望加入你的团队。 -->
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=HuRuWo&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
