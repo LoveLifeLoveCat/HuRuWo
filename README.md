@@ -33,7 +33,7 @@
 ## 📫 联系本人
 
 - Email: 1458476478@qq.com
-- QQ: 1458476478(添加请注明来意)
+- QQ: 1458476478(添加请注明来意 否则不予通过)
 - Blog: [https://www.huruwo.top/](https://www.huruwo.top/)
 
  
