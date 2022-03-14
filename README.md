@@ -34,7 +34,7 @@
 
 - Email: 1458476478@qq.com
 - QQ: 1458476478(添加请注明来意 否则不予通过)
-- Blog: [https://www.huruwo.top/](https://www.huruwo.top/)
+- Blog: [https://www.blog.huruwo.top/](https://www.blog.huruwo.top/)
 
  
 <!-- **HuRuWo/HuRuWo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
